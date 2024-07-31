@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Governance",
+      "body": "On the other hand, e-government refers specifically to the use of ICTs by government entities for delivering public services, interacting with citizens, and managing internal processes. E-Government is more focused on the administrative aspects of governance, such as online service delivery, digital communication channels, and the automation of government processes.",
+      "author": "Verg",
+      "id": "2"
+    },
+    {
+      "id": "5c87",
+      "title": "The human brain",
+      "body": "uhguigigigyigutftxesredytfuterfdgrsersdf8ijghfgcfxdes3stdfuig6d4etrdsfhvjgkghughiughjgvtfyftfgvjhgigiygygjhvhftrtdfiygghvyvytfytdytfuyvib",
+      "author": "danny"
+    },
+    {
+      "id": "21a2",
+      "title": "What is Flutter??",
+      "body": "Flutter, developed by Google, has emerged as a powerful cross-platform mobile application development framework. Using the Dart programming language, Flutter enables developers to build visually appealing and smooth applications. Its key advantage lies in its \"write once, run anywhere\" philosophy, allowing code reuse across different platforms. Flutter's rich set of customizable widgets, hot-reloading feature, and impressive performance make it a preferred choice for developers.",
+      "author": "verg"
+    }
+  ]
+}
